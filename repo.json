@@ -1,0 +1,8 @@
+{
+  "name": "Repo de Bryan 🎬",
+  "description": "No te importa nanana 💩",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Stormunblessed/storm-ext/builds/plugins.json"
+  ]
+}
